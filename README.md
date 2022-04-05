@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lihogor
-- 👀 I’m interested in PHP, PYTON
-- 🌱 I’m currently learning PYTON
+- 👀 I’m interested in PHP, PHYTON
+- 🌱 I’m currently learning PHYTON
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
